@@ -1,0 +1,5 @@
+{
+  "graphs": {
+    "simple_agent": "./src/graph.ts:graph"
+  }
+}
